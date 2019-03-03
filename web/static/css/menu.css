@@ -1,0 +1,56 @@
+#navbarDropdownMenuLink{
+    font-size: 18px;
+    left: 600px;
+    margin-top:0px;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    width: 100%;
+    font-family: 'Glyphicons Halflings';
+    line-height: 1;
+}
+
+.dropdown-menu {
+  background-image: linear-gradient(black, red);
+  font-size: 16px;
+  left: 600px;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  padding: 14px 16px;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+
+}
+
+.dropdown-item {
+
+    color: #ffffff;
+
+}
+
+li.dropdown a.glyphicon-list-alt:hover {
+
+    color: #ff0000 !important; 
+
+}
+
+li.dropdown a.dropdown-item:hover {
+
+    color: #009933 !important; 
+
+}
+
+
+ul.navbar-nav a:hover {
+
+    color: #ff0000 !important; 
+
+}
+
+
+
+
+
+
+
